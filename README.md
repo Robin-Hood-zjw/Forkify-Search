@@ -1,3 +1,3 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+Link: https://robin-hood-zjw.github.io/Forkify-Search/
